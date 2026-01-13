@@ -1,5 +1,9 @@
 **Config for Kitty terminal**
 
+<p align="center">
+  <img src="images/KittyPrev.png" alt="KittyPrev" width="600">
+</p>
+
 **cursor & fonts**
 
 *Font*
